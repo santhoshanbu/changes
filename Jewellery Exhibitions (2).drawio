@@ -3,3 +3,7 @@
 3 Nested Routes are simpler
 4 useNavigate instead of useHistory
 5 From 20kb to 8kb
+
+// internal style hover
+
+'&:hover': { color: 'blue !important' }
